@@ -1,0 +1,765 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dlqrk\\Myproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\manager\\scenebgmplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\manager\\scenebgmplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\skill\\skill_manaball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\skill\\skill_manaball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\enemy\\enemymover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\enemy\\enemymover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\character\\meleeattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\character\\meleeattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\player\\playermove2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\player\\playermove2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\character\\healthpointmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\character\\healthpointmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\enemy\\enemyfsmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\enemy\\enemyfsmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|c:\\users\\dlqrk\\myproject\\assets\\02.script\\augment\\augmentsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\augment\\augmentsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\ui\\augmentcardui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\ui\\augmentcardui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\enemy\\enemyattackcomtroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\enemy\\enemyattackcomtroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\ui\\enemyhpbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\ui\\enemyhpbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\ui\\augmentselectionui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\ui\\augmentselectionui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\augment\\augmenttierpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\augment\\augmenttierpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\augment\\augmentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\augment\\augmentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\character\\rangedattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\character\\rangedattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\ui\\playerlnfopanelui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\ui\\playerlnfopanelui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\augment\\augmenttier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\augment\\augmenttier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\ui\\skilslotui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\ui\\skilslotui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\interface\\iskillbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\interface\\iskillbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\skill\\skillslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\skill\\skillslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\manager\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\manager\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\skill\\skill_parry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\skill\\skill_parry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\player\\playerlevelsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\player\\playerlevelsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\player\\playerpersistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\player\\playerpersistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\skill\\skilldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\skill\\skilldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\ui\\playerhudui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\ui\\playerhudui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\player\\camerafollowsetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\player\\camerafollowsetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\character\\characterstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\character\\characterstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\character\\projectilebullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\character\\projectilebullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\enemy\\enemystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\enemy\\enemystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\enemy\\enemydetectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\enemy\\enemydetectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\player\\playerskillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\player\\playerskillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\player\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\player\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\player\\playerinputreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\player\\playerinputreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\manager\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\manager\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dlqrk\\Myproject\\Library\\PackageCache\\com.unity.ugui@8ccc29d23a79\\Runtime\\TMP\\TextMeshProUGUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@8ccc29d23a79\\Runtime\\TMP\\TextMeshProUGUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\interface\\ienemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\interface\\ienemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\textmesh pro\\shaders\\tmp_sdf-mobile.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf-mobile.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\manager\\gameresultdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\manager\\gameresultdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\enemy\\enemyexp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\enemy\\enemyexp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\tutorialinfo\\scripts\\readme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\readme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\ui\\resultui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\ui\\resultui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\ui\\titleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\ui\\titleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|C:\\Users\\dlqrk\\Myproject\\assets\\02.script\\interface\\iidamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52187F8D-502B-E01F-959A-E7F8516ACBF1}|Assembly-CSharp.csproj|solutionrelative:assets\\02.script\\interface\\iidamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dlqrk\\Myproject\\Library\\PackageCache\\com.unity.ugui@8ccc29d23a79\\Runtime\\UGUI\\EventSystem\\InputModules\\BaseInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@8ccc29d23a79\\Runtime\\UGUI\\EventSystem\\InputModules\\BaseInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CameraFollowSetter.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Player\\CameraFollowSetter.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Player\\CameraFollowSetter.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Player\\CameraFollowSetter.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Player\\CameraFollowSetter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T08:43:55.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PlayerPersistence.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Player\\PlayerPersistence.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Player\\PlayerPersistence.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Player\\PlayerPersistence.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Player\\PlayerPersistence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T08:01:10.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ResultUI.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\UI\\ResultUI.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\UI\\ResultUI.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\UI\\ResultUI.cs",
+              "RelativeToolTip": "Assets\\02.Script\\UI\\ResultUI.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T06:01:32.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "TitleUI.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\UI\\TitleUI.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\UI\\TitleUI.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\UI\\TitleUI.cs",
+              "RelativeToolTip": "Assets\\02.Script\\UI\\TitleUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T05:48:08.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Manager\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Manager\\SoundManager.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Manager\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Manager\\SoundManager.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T03:20:13.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GameResultData.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Manager\\GameResultData.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Manager\\GameResultData.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Manager\\GameResultData.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Manager\\GameResultData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T02:55:08.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HealthPointManager.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Character\\HealthPointManager.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Character\\HealthPointManager.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Character\\HealthPointManager.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Character\\HealthPointManager.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAgwEwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T02:24:51.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SceneBGMPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Manager\\SceneBGMPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Manager\\SceneBGMPlayer.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Manager\\SceneBGMPlayer.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Manager\\SceneBGMPlayer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIBAwB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T07:48:17.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Manager\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Manager\\GameManager.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Manager\\GameManager.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Manager\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T02:53:40.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Manager\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Manager\\SceneLoader.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Manager\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Manager\\SceneLoader.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAywA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T02:22:55.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SkilSlotUI.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\UI\\SkilSlotUI.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\UI\\SkilSlotUI.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\UI\\SkilSlotUI.cs",
+              "RelativeToolTip": "Assets\\02.Script\\UI\\SkilSlotUI.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAywAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T07:45:30.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Skill_Parry.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Skill\\Skill_Parry.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Skill\\Skill_Parry.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Skill\\Skill_Parry.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Skill\\Skill_Parry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T06:23:52.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Skill_Manaball.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Skill\\Skill_Manaball.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Skill\\Skill_Manaball.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Skill\\Skill_Manaball.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Skill\\Skill_Manaball.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAIBEwCoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T06:00:10.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PlayerSkillController.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Player\\PlayerSkillController.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Player\\PlayerSkillController.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Player\\PlayerSkillController.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Player\\PlayerSkillController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T04:03:52.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SkillSlot.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Skill\\SkillSlot.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Skill\\SkillSlot.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Skill\\SkillSlot.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Skill\\SkillSlot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T01:39:29.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ISkillBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\interface\\ISkillBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\interface\\ISkillBehaviour.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\interface\\ISkillBehaviour.cs",
+              "RelativeToolTip": "Assets\\02.Script\\interface\\ISkillBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T01:37:42.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SkillData.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Skill\\SkillData.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Skill\\SkillData.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Skill\\SkillData.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Skill\\SkillData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T01:34:27.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TextMeshProUGUI.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Library\\PackageCache\\com.unity.ugui@8ccc29d23a79\\Runtime\\TMP\\TextMeshProUGUI.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@8ccc29d23a79\\Runtime\\TMP\\TextMeshProUGUI.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Library\\PackageCache\\com.unity.ugui@8ccc29d23a79\\Runtime\\TMP\\TextMeshProUGUI.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@8ccc29d23a79\\Runtime\\TMP\\TextMeshProUGUI.cs",
+              "ViewState": "AgIAAM0HAAAAAAAAAAAmwNsHAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T20:06:44.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TMP_SDF-Mobile.shader",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
+              "ViewState": "AgIAACoAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-04-21T08:45:51.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PlayerlnfoPanelUI.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\UI\\PlayerlnfoPanelUI.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\UI\\PlayerlnfoPanelUI.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\UI\\PlayerlnfoPanelUI.cs",
+              "RelativeToolTip": "Assets\\02.Script\\UI\\PlayerlnfoPanelUI.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAIA9wFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T02:34:59.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AugmentSelectionUI.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\UI\\AugmentSelectionUI.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\UI\\AugmentSelectionUI.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\UI\\AugmentSelectionUI.cs",
+              "RelativeToolTip": "Assets\\02.Script\\UI\\AugmentSelectionUI.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAA4wEQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T09:29:28.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AugmentCardUI.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\UI\\AugmentCardUI.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\UI\\AugmentCardUI.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\UI\\AugmentCardUI.cs",
+              "RelativeToolTip": "Assets\\02.Script\\UI\\AugmentCardUI.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAIA3wB0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T09:19:18.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EnemyHpBarUI.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\UI\\EnemyHpBarUI.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\UI\\EnemyHpBarUI.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\UI\\EnemyHpBarUI.cs",
+              "RelativeToolTip": "Assets\\02.Script\\UI\\EnemyHpBarUI.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA+wAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:57:15.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PlayerHUDUI.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\UI\\PlayerHUDUI.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\UI\\PlayerHUDUI.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\UI\\PlayerHUDUI.cs",
+              "RelativeToolTip": "Assets\\02.Script\\UI\\PlayerHUDUI.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAiwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:12:26.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IEnemyAttack.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\interface\\IEnemyAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\interface\\IEnemyAttack.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\interface\\IEnemyAttack.cs",
+              "RelativeToolTip": "Assets\\02.Script\\interface\\IEnemyAttack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T01:58:35.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AugmentSystem.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Augment\\AugmentSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Augment\\AugmentSystem.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Augment\\AugmentSystem.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Augment\\AugmentSystem.cs",
+              "ViewState": "AgIAAD4BAAAAAAAAAAAowFMBAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:44:38.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AugmentTierPool.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Augment\\AugmentTierPool.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Augment\\AugmentTierPool.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Augment\\AugmentTierPool.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Augment\\AugmentTierPool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:19:30.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AugmentData.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Augment\\AugmentData.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Augment\\AugmentData.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Augment\\AugmentData.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Augment\\AugmentData.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T05:32:19.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AugmentTier.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Augment\\AugmentTier.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Augment\\AugmentTier.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Augment\\AugmentTier.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Augment\\AugmentTier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T05:29:56.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EnemyExp.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Enemy\\EnemyExp.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Enemy\\EnemyExp.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Enemy\\EnemyExp.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Enemy\\EnemyExp.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAIAywDEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T04:26:42.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PlayerLevelSystem.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Player\\PlayerLevelSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Player\\PlayerLevelSystem.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Player\\PlayerLevelSystem.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Player\\PlayerLevelSystem.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAEkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T02:18:01.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CharacterStats.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Character\\CharacterStats.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Character\\CharacterStats.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Character\\CharacterStats.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Character\\CharacterStats.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAIBAwKUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T07:30:05.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProjectileBullet.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Character\\ProjectileBullet.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Character\\ProjectileBullet.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Character\\ProjectileBullet.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Character\\ProjectileBullet.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T06:05:14.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RangedAttack.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Character\\RangedAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Character\\RangedAttack.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Character\\RangedAttack.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Character\\RangedAttack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T05:15:16.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MeleeAttack.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Character\\MeleeAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Character\\MeleeAttack.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Character\\MeleeAttack.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Character\\MeleeAttack.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T02:45:33.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnemyAttackComtroller.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Enemy\\EnemyAttackComtroller.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Enemy\\EnemyAttackComtroller.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Enemy\\EnemyAttackComtroller.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Enemy\\EnemyAttackComtroller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T08:38:43.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnemyFSMController.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Enemy\\EnemyFSMController.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Enemy\\EnemyFSMController.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Enemy\\EnemyFSMController.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Enemy\\EnemyFSMController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA0wAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T06:44:00.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EnemyState.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Enemy\\EnemyState.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Enemy\\EnemyState.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Enemy\\EnemyState.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Enemy\\EnemyState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T06:29:34.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyMover.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Enemy\\EnemyMover.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Enemy\\EnemyMover.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Enemy\\EnemyMover.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Enemy\\EnemyMover.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA6wDcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T05:36:52.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EnemyDetectionController.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Enemy\\EnemyDetectionController.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Enemy\\EnemyDetectionController.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Enemy\\EnemyDetectionController.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Enemy\\EnemyDetectionController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAA+wBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T04:55:02.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "BaseInput.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Library\\PackageCache\\com.unity.ugui@8ccc29d23a79\\Runtime\\UGUI\\EventSystem\\InputModules\\BaseInput.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@8ccc29d23a79\\Runtime\\UGUI\\EventSystem\\InputModules\\BaseInput.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Library\\PackageCache\\com.unity.ugui@8ccc29d23a79\\Runtime\\UGUI\\EventSystem\\InputModules\\BaseInput.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@8ccc29d23a79\\Runtime\\UGUI\\EventSystem\\InputModules\\BaseInput.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T08:20:42.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IIDamageable.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\interface\\IIDamageable.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\interface\\IIDamageable.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\interface\\IIDamageable.cs",
+              "RelativeToolTip": "Assets\\02.Script\\interface\\IIDamageable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T02:21:51.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerMove2D.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Player\\PlayerMove2D.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Player\\PlayerMove2D.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Player\\PlayerMove2D.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Player\\PlayerMove2D.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAxwCoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T07:17:04.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PlayerAttack.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Player\\PlayerAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Player\\PlayerAttack.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Player\\PlayerAttack.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Player\\PlayerAttack.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAA6wE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T07:47:14.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PlayerInputReader.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Player\\PlayerInputReader.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Script\\Player\\PlayerInputReader.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\02.Script\\Player\\PlayerInputReader.cs",
+              "RelativeToolTip": "Assets\\02.Script\\Player\\PlayerInputReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T06:54:50.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Readme.cs",
+              "DocumentMoniker": "C:\\Users\\dlqrk\\Myproject\\Assets\\TutorialInfo\\Scripts\\Readme.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\Readme.cs",
+              "ToolTip": "C:\\Users\\dlqrk\\Myproject\\Assets\\TutorialInfo\\Scripts\\Readme.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\Readme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T04:58:01.48Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
